@@ -1,0 +1,26 @@
+.one {
+    background-color: aqua;
+    color: black;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.two {
+    background-color: aquamarine;
+    color: red;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.three {
+    background-color: chartreuse;
+    color: black;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
